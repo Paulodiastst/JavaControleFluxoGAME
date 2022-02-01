@@ -4,7 +4,7 @@
 
 <p>
 ✅ Controle de fluxo<br>
-✅ Criação do GAME com telcas do teclado<br>
+✅ Criação do GAME <br>
 ✅ IDE para desenvolvimento Java (usarei IntelliJ)<br>
 ✅ Git<br>
 ✅ Conta no GitHub<br>
