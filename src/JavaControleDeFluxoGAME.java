@@ -10,6 +10,7 @@ public class JavaControleDeFluxoGAME {
         switch ((char) codigoASCII) {
             //bloco de código
             case 'A':
+                System.out.println("Opa! Parabéns");
             case 'p':
             case 'l':
             case 'i':
